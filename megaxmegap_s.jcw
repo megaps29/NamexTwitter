@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>megaxmegap_s</label>
+	</settings>
+	<users>
+		<user>
+			<path>megaxmegap_s.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>megaxmegap_s.jcp</path>
+		</project>
+	</projects>
+</workspace>
